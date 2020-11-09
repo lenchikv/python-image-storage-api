@@ -6,7 +6,7 @@
 
 #### How to set up the project
 
-* Clone project `git clone https://github.com/lenchikv/python-api.git`
+* Clone project `git clone https://github.com/lenchikv/python-image-storage-api.git`
 * Copy .env.example to .env and set appropriate values
 * Run `docker-compose run --rm web ./manage.py migrate` and `docker-compose up`
 
